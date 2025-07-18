@@ -6,8 +6,8 @@ subject="mathematics"
 print(color)
 print(country)
 print(subject)
-# 2)
 
+# 2)
 brother="giorgi"
 father="tornike"
 mother="tatia"
