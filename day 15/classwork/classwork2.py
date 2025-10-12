@@ -1,0 +1,5 @@
+# 3)მომხარებელს შემოატანინეთ რამე და შემდეგ დაპრინტეთ, ეს მოქმედება გაიმეორეთ 10 ჯერ for loop ით
+
+for i in range(1, 10):
+   name=input("enter your name")
+   print(name)
