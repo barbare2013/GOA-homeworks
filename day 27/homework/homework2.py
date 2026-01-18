@@ -1,0 +1,25 @@
+# 3)შექმენით სია 10 ელემენტი, nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], შემდეგ  მასში ჩაამატეთ 10 ელემნტი insert ით  შშუაშუ,
+#  და ამოიღეთ  5 ელემენტი remove ით და 5 pop ით
+
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+nums.insert(5, '15')
+nums.insert(5, '16')
+nums.insert(5, '17')
+nums.insert(5, '18')
+nums.insert(5, '19')
+nums.insert(5, '20')
+nums.insert(5, '21')
+nums.insert(5, '22')
+nums.insert(5, '23')
+nums.insert(5, '24')
+nums.remove(1)
+nums.remove(2)
+nums.remove(3)
+nums.remove(4)
+nums.remove(5)
+nums.pop(0)
+nums.pop(0)
+nums.pop(0)
+nums.pop(0)
+nums.pop(0)
+print(nums)
