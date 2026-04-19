@@ -1,0 +1,61 @@
+#p10{
+
+    text-transform: capitalize;
+    text-decoration: underline dotted green;
+    text-align: right;
+}
+
+#p1{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#p2{
+    
+    text-align: left;
+    text-decoration: overline double red;
+}
+
+#p3{
+
+
+   text-align: center;
+   text-transform: capitalize;
+   text-decoration: underline;
+}
+
+#p4{
+    text-align: right;
+    text-transform: capitalize;
+    text-decoration: line-through dotted green;
+}
+
+#p5{
+    text-align: left;
+    text-transform:capitalize;
+    text-decoration: line-through;
+}
+
+#p6{
+    text-align: left;
+    text-decoration: overline;
+}
+
+#p7{
+
+    color: green;
+    text-align: right;
+    text-decoration: overline;
+}
+
+#p8{
+    text-align: center;
+    text-transform: uppercase;
+    color: gray;
+    text-decoration: overline gray;
+}
+
+#p9{
+    text-align: right;
+    text-decoration: underline dotted green;
+}
