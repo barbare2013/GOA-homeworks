@@ -1,0 +1,13 @@
+#div4{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+
+#div4:hover{
+    background-color: black;
+}
+
+#div4:active{
+    border: 1px dotted pink;
+}

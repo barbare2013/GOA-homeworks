@@ -1,0 +1,9 @@
+#div2{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+}
+
+#div2:hover{
+    background-color: blue;
+}
